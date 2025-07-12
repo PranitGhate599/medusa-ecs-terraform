@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Medusa.js on AWS ECS (Terraform + GitHub Actions)
 
 This repository provisions a headless commerce backend using **Medusa.js**, deployed on **AWS ECS with Fargate**, with a fully automated **CI/CD pipeline** using **GitHub Actions**.
@@ -135,3 +136,6 @@ You’ll need to set repository-level environment variables in the workflow:
 * GitHub Actions for ECS deployment best practices
 
 ---
+=======
+# medusa-ecs-terraform
+>>>>>>> ce24a95ab8b542bdae5504b24b991c00798ca4a0
